@@ -1,4 +1,4 @@
-# AEM Webpack AEM
+# AEM Webpack
 
 This a content package project generated using the AEM Multimodule Yeoman template.
 
