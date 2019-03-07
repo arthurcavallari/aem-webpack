@@ -1,0 +1,3 @@
+#base=js
+#babel polyfill manually copied from node_modules v6.26.0
+polyfill.min.js

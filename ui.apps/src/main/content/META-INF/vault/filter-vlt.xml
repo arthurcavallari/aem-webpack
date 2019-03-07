@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/libs/foundation"/>
+    <filter root="/apps/aemwebpack">
+        <exclude pattern="/apps/aemwebpack/install" />
+    </filter>
+    <filter root="/etc/designs/aemwebpack"/>
+    <filter root="/apps/sling/servlet/errorhandler"/>
+</workspaceFilter>

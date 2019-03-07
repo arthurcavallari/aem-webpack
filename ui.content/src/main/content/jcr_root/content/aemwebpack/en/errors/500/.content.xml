@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-11-29T16:27:09.438+11:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/aemwebpack/templates/contentpage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Ack! Server error :("
+        sling:resourceType="aemwebpack/components/structure/contentpage"
+        navTitle="Ack! Server error :("
+        pageTitle="Ack! Server error :(">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/parsys">
+            <text
+                jcr:created="{Date}2017-11-29T16:26:45.107+11:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2017-11-29T16:27:09.437+11:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="aemwebpack/components/content/text"
+                text="&lt;p>&lt;b>Ack! Server error :(&lt;/b>&lt;br>&#xa;&lt;/p>&#xa;"
+                textIsRich="true"/>
+        </par>
+    </jcr:content>
+</jcr:root>

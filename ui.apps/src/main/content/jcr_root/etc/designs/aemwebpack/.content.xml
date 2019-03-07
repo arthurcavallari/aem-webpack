@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <clientlib-vendor/>
+    <nursechat/>
+    <jcr:content
+        cq:lastModified="{Date}2018-08-02T09:50:33.540+10:00"
+        cq:lastModifiedBy="admin"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="AEM Webpack Design"
+        sling:resourceType="wcm/core/components/designer">
+        <contentpage jcr:primaryType="nt:unstructured">
+            <header-ipar
+                jcr:lastModified="{Date}2016-09-03T01:42:29.650+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/iparsys"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </header-ipar>
+            <footer-ipar
+                jcr:lastModified="{Date}2016-09-03T22:35:26.994+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/iparsys"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </footer-ipar>
+            <par
+                jcr:lastModified="{Date}2017-01-31T17:36:28.994+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </par>
+        </contentpage>
+        <plainpage jcr:primaryType="nt:unstructured">
+			<par
+                jcr:lastModified="{Date}2017-01-31T17:36:28.994+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </par>
+        </plainpage>
+        <nursechatpage jcr:primaryType="nt:unstructured"/>
+        <authenticated-contentpage jcr:primaryType="nt:unstructured">
+            <header-ipar
+                jcr:lastModified="{Date}2016-09-03T01:42:29.650+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/iparsys"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </header-ipar>
+            <footer-ipar
+                jcr:lastModified="{Date}2016-09-03T22:35:26.994+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/iparsys"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </footer-ipar>
+            <par
+                jcr:lastModified="{Date}2017-01-31T17:36:28.994+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </par>
+        </authenticated-contentpage>
+        <authenticated-contentpage-3-9 jcr:primaryType="nt:unstructured">
+            <header-ipar
+                jcr:lastModified="{Date}2016-09-03T01:42:29.650+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/iparsys"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </header-ipar>
+            <footer-ipar
+                jcr:lastModified="{Date}2016-09-03T22:35:26.994+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/iparsys"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </footer-ipar>
+            <left-column-par
+                jcr:lastModified="{Date}2017-01-31T17:36:28.994+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </left-column-par>
+            <right-column-par
+                jcr:lastModified="{Date}2017-01-31T17:36:28.994+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </right-column-par>
+            <header-par jcr:primaryType="nt:unstructured">
+                <top-par
+                    jcr:lastModified="{Date}2018-08-02T09:50:33.520+10:00"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    components="group:AEM Webpack">
+                    <section jcr:primaryType="nt:unstructured"/>
+                </top-par>
+            </header-par>
+        </authenticated-contentpage-3-9>
+        <authenticated-campaignpage jcr:primaryType="nt:unstructured">
+            <header-ipar
+                jcr:lastModified="{Date}2016-09-03T01:42:29.650+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/iparsys"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </header-ipar>
+            <footer-ipar
+                jcr:lastModified="{Date}2016-09-03T22:35:26.994+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/iparsys"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </footer-ipar>
+            <content-header-par
+                jcr:lastModified="{Date}2017-01-31T17:36:28.994+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </content-header-par>
+            <content-par
+                jcr:lastModified="{Date}2017-01-31T17:36:28.994+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                components="group:AEM Webpack">
+                <section jcr:primaryType="nt:unstructured"/>
+            </content-par>
+        </authenticated-campaignpage>
+    </jcr:content>
+    <assets/>
+    <clientlib-all/>
+    <clientlib-site/>
+    <clientlib-static/>
+    <generated-clientlib-components/>
+    <generated-clientlib-globals/>
+    <generated-clientlib-manifest/>
+    <generated-clientlib-vendor/>
+    <favicon.ico/>
+</jcr:root>

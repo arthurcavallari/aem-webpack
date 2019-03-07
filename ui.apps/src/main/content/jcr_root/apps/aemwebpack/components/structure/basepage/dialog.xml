@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Dialog"
+    height="400"
+    stateful="false"
+    xtype="dialog">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <tabs jcr:primaryType="cq:TabPanel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <errorPagesTab
+                    jcr:primaryType="cq:Panel"
+                    title="Error pages">
+                    <items jcr:primaryType="cq:WidgetCollection">
+                        <errorPages
+                            jcr:primaryType="cq:Widget"
+                            title="Error pages"
+                            collapsed="{Boolean}false"
+                            collapsible="{Boolean}true"
+                            xtype="dialogfieldset">
+                            <items jcr:primaryType="cq:WidgetCollection">
+                                <enabled
+                                    jcr:primaryType="cq:Widget"
+                                    fieldDescription="Error pages for this content tree"
+                                    fieldLabel="Error Pages"
+                                    name="./errorPages"
+                                    xtype="pathfield">
+                                </enabled>
+                            </items>
+                        </errorPages>
+                    </items>
+                </errorPagesTab>
+            </items>
+        </tabs>
+    </items>
+</jcr:root>

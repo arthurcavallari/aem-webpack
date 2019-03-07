@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-11-29T16:26:07.289+11:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/mymedibank/templates/contentpage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Error pages"
+        sling:resourceType="mymedibank/components/structure/contentpage"
+        navTitle="Error pages"
+        pageTitle="Error pages"/>
+</jcr:root>
